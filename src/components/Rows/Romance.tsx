@@ -8,7 +8,7 @@ import {
 } from "react-icons/fi";
 import { VscChevronLeft, VscChevronRight } from "react-icons/vsc";
 
-import "/src/style/Rows.css";
+import "./Row-Container/Rows.css";
 
 type RomanceProps = {
   title: string;

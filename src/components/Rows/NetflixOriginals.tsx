@@ -3,7 +3,7 @@ import { useEffect, useState, useRef } from "react";
 import { FiPlus, FiChevronDown } from "react-icons/fi";
 import { VscChevronLeft, VscChevronRight } from "react-icons/vsc";
 
-import "/src/style/Rows.css";
+import "./Row-Container/Rows.css";
 
 type NetflixOriginalProps = {
   title: string;
